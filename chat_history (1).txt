@@ -1,0 +1,32 @@
+Q: Technical Skills?
+A: Python, SQL, Tableau, Power BI, Excel, MySQL, HTML, CSS, JavaScript, Django, Data Science, AWS(S3)
+
+Q: Knowledge in which?
+A: Python Libraries – Pandas, NumPy, Matplotlib, AWS EC2 basics
+
+Q: can you provide me the name of certifications
+A: Python Basics for Data Science – IBM Data Analytics Essentials – CISCO AWS Cloud Practitioner Essentials – AWS Training and Certification
+
+Q: any work experience he has?
+A: Python Developer Intern at Source Code Technology Pvt. Ltd
+
+Q: list all the projects he has done i can see the 4 names here can you write it for me?
+A: Careerwise
+
+Q: What are hobbies mentioned?
+A: Cricket
+
+Q: What are 3 hobbies mentioned?
+A: Cricket Football
+
+Q: can you provide me the link of projects>?
+A: RSB Grocery Mart
+
+Q: Can you provide me the link of AJ Energy Solutions?
+A: https://ajenergysolutions.in/
+
+Q: can you explain me this  - Top Films by Genre, Profit, and Gross - 
+A: Tableau Project
+
+Q: Can you explaon Tableaue project?
+A: yes
